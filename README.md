@@ -1,1 +1,1 @@
-Tela de Login responsiva - criada para treinar formulários com HTML E CSS 
+Tela de Login responsiva - criada para treinar formulários e responsividade com HTML E CSS 
